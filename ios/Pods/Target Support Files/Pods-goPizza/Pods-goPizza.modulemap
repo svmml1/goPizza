@@ -1,0 +1,6 @@
+module Pods_goPizza {
+  umbrella header "Pods-goPizza-umbrella.h"
+
+  export *
+  module * { export * }
+}
